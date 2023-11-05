@@ -1,4 +1,4 @@
-window.addEventListener("load", (event) => {
+
   let result = `
   <div class="bg-main bg-province1">
 				<div class="river">
@@ -195,4 +195,4 @@ window.addEventListener("load", (event) => {
 				</div>
 		</div>`
   //document.getElementById("krathong").innerHTML = result
-});
+

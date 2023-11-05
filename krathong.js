@@ -193,7 +193,3 @@
 						</div>
 				</div>
 		</div>`
-window.addEventListener("load", (event) => {
-      document.getElementById("krathong-iteme").innerHTML = result
-});
-

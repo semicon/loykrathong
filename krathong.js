@@ -7,7 +7,7 @@
 								<div class="items-slide-46 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-4 items-thumb">
-										<img src="./img/krathong.png" alt="กระทง0">
+										<img src="https://semicon.github.io/img/krathong.png" alt="กระทง0">
 										</div>
 									</div>
 								</div>
@@ -16,7 +16,7 @@
 								<div class="items-slide-57 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-0 items-thumb">
-										<img src="./img/krathong-1.png" alt="กระทง0">
+										<img src="https://semicon.github.io/img/krathong-1.png" alt="กระทง0">
 										</div>
 									</div>
 								</div>
@@ -25,7 +25,7 @@
 								<div class="items-slide-64 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-1 items-thumb">
-										<img src="./img/krathong-2.png" alt="กระทง1">
+										<img src="https://semicon.github.io/img/krathong-2.png" alt="กระทง1">
 										</div>
 									</div>
 								</div>
@@ -35,7 +35,7 @@
 								<div class="items-slide-47 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-2 items-thumb">
-										<img src="./img/krathong-3.png" alt="กระทง2">
+										<img src="https://semicon.github.io/img/krathong-3.png" alt="กระทง2">
 										</div>
 									</div>
 								</div>
@@ -44,7 +44,7 @@
 								<div class="items-slide-48 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-3 items-thumb">
-										<img src="./img/krathong-4.png" alt="กระทง3">
+										<img src="https://semicon.github.io/img/krathong-4.png" alt="กระทง3">
 										</div>
 									</div>
 								</div>
@@ -53,7 +53,7 @@
 								<div class="items-slide-49 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-4 items-thumb">
-										<img src="./img/krathong-5.png" alt="กระทง4">
+										<img src="https://semicon.github.io/img/krathong-5.png" alt="กระทง4">
 										</div>
 									</div>
 								</div>
@@ -62,7 +62,7 @@
 								<div class="items-slide-50 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-0 items-thumb">
-										<img src="./img/krathong-6.png" alt="กระทง0">
+										<img src="https://semicon.github.io/img/krathong-6.png" alt="กระทง0">
 										</div>
 									</div>
 								</div>
@@ -72,7 +72,7 @@
 								<div class="items-slide-51 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-1 items-thumb">
-										<img src="./img/krathong-1.png" alt="กระทง1">
+										<img src="https://semicon.github.io/img/krathong-1.png" alt="กระทง1">
 									    </div>
 									</div>
 								</div>
@@ -83,7 +83,7 @@
 								<div class="items-slide-52 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-2 items-thumb">
-										<img src="./img/krathong-2.png" alt="กระทง2">
+										<img src="https://semicon.github.io/img/krathong-2.png" alt="กระทง2">
 									    </div>
 									</div>
 								</div>
@@ -93,7 +93,7 @@
 								<div class="items-slide-53 item-base-slide " >
 									<div class="items-topdown">
 										<div class="items-swing item-3 items-thumb">
-										<img src="./img/krathong-3.png" alt="กระทง3">
+										<img src="https://semicon.github.io/img/krathong-3.png" alt="กระทง3">
 										</div>
 									</div>
 								</div>
@@ -104,7 +104,7 @@
 								<div class="items-slide-54 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-4 items-thumb">
-										<img src="./img/krathong-4.png" alt="กระทง4">
+										<img src="https://semicon.github.io/img/krathong-4.png" alt="กระทง4">
 										</div>
 									</div>
 								</div>
@@ -114,7 +114,7 @@
 								<div class="items-slide-55 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-0 items-thumb">
-										<img src="./img/krathong-5.png" alt="กระทง0">
+										<img src="https://semicon.github.io/img/krathong-5.png" alt="กระทง0">
 																				</div>
 									</div>
 								</div>
@@ -124,7 +124,7 @@
 								<div class="items-slide-56 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-1 items-thumb">
-										<img src="./img/krathong-6.png" alt="กระทง1">
+										<img src="https://semicon.github.io/img/krathong-6.png" alt="กระทง1">
 										</div>
 									</div>
 								</div>
@@ -134,7 +134,7 @@
 								<div class="items-slide-58 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-1 items-thumb">
-										<img src="./img/krathong-1.png" alt="กระทง1">
+										<img src="https://semicon.github.io/img/krathong-1.png" alt="กระทง1">
 									    </div>
 									</div>
 								</div>
@@ -145,7 +145,7 @@
 								<div class="items-slide-59 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-2 items-thumb">
-										<img src="./img/krathong-2.png" alt="กระทง2">
+										<img src="https://semicon.github.io/img/krathong-2.png" alt="กระทง2">
 									    </div>
 									</div>
 								</div>
@@ -155,7 +155,7 @@
 								<div class="items-slide-60 item-base-slide " >
 									<div class="items-topdown">
 										<div class="items-swing item-3 items-thumb">
-										<img src="./img/krathong-3.png" alt="กระทง3">
+										<img src="https://semicon.github.io/img/krathong-3.png" alt="กระทง3">
 										</div>
 									</div>
 								</div>
@@ -166,7 +166,7 @@
 								<div class="items-slide-61 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-4 items-thumb">
-										<img src="./img/krathong-4.png" alt="กระทง4">
+										<img src="https://semicon.github.io/img/krathong-4.png" alt="กระทง4">
 										</div>
 									</div>
 								</div>
@@ -176,7 +176,7 @@
 								<div class="items-slide-62 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-0 items-thumb">
-										<img src="./img/krathong-5.png" alt="กระทง0">
+										<img src="https://semicon.github.io/img/krathong-5.png" alt="กระทง0">
 										</div>
 									</div>
 								</div>
@@ -186,7 +186,7 @@
 								<div class="items-slide-63 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-1 items-thumb">
-										<img src="./img/krathong-6.png" alt="กระทง1">
+										<img src="https://semicon.github.io/img/krathong-6.png" alt="กระทง1">
 										</div>
 									</div>
 								</div>

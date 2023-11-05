@@ -193,5 +193,5 @@
 						</div>
 				</div>
 		</div>`
-  document.getElementById("krathong-iteme").innerHTML = result
+  //document.getElementById("krathong-iteme").innerHTML = result
 

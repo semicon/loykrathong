@@ -194,5 +194,5 @@ window.addEventListener("load", (event) => {
 						</div>
 				</div>
 		</div>`
-  document.getElementById("krathong").innerHTML = result
+  //document.getElementById("krathong").innerHTML = result
 });

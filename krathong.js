@@ -6,7 +6,7 @@
 								<div class="items-slide-46 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-4 items-thumb">
-										<img src="/img/krathong.png" alt="กระทง0">
+										<img src="https://semicon.github.io/loykrathong/img/krathong.png" alt="กระทง0">
 										</div>
 									</div>
 								</div>
@@ -15,7 +15,7 @@
 								<div class="items-slide-57 item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-0 items-thumb">
-										<img src="/img/krathong-1.png" alt="กระทง0">
+										<img src="https://semicon.github.io/loykrathong/img/krathong-1.png" alt="กระทง0">
 										</div>
 									</div>
 								</div>

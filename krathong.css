@@ -1,6 +1,9 @@
 			html { 
 			  background: url("https://semicon.github.io/loykrathong/img/BG-web-w.jpg");
 			}
+			.items-slide {
+					animation: 10s linear 0s normal none infinite slide; 
+				}
 			.items-slide-45 {
 					animation: 46s linear 0s normal none infinite slide0; 
 				}

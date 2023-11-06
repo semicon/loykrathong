@@ -6,8 +6,8 @@
       							<div class="item-relative">
 								<div class="items-slide item-base-slide ">
 									<div class="items-topdown">
-	 									<div class="items-swing">xxxxx</div>
-										<div class="items-swing">YYYYYYYYYYYYYYYY</div>	   
+	 									<div id="boxPic" class="items-swing box-pic">xxxxx</div>
+										<div id="boxPrayer" class="items-swing box-prayer">YYYYYYYYYYYYYYYY</div>	   
 										<div class="items-swing item-0 items-thumb">
 										<img id="krathongMain" src="https://semicon.github.io/loykrathong/img/krathong.png" alt="krathongMain" style="width:220px; height: auto;">
 										</div>

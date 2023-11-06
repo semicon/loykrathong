@@ -7,7 +7,7 @@
 								<div class="items-slide item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-0 items-thumb">
-										<img src="https://semicon.github.io/loykrathong/img/krathong.png" alt="กระทง0" style="width:200px; height: auto;">
+										<img id="krathongMain" src="https://semicon.github.io/loykrathong/img/krathong.png" alt="krathongMain" style="width:200px; height: auto;">
 										</div>
 									</div>
 								</div>

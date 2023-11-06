@@ -294,16 +294,16 @@
 
 			@-webkit-keyframes slide {
 				  0% {
-					left: 50vw;
-					top: 0vh;
+					left: 50%;
+					top: 0;
 					z-index:1000;
 					position: absolute; 
 					transform: translate(-50%,0);
 				  }
 
 				  100% {
-					left: 50vw;
-					top: 0vh;
+					left: 50%;
+					top: 0;
 					z-index:1000;
 					position: absolute; 
 					transform: translate(-50%,0);
@@ -312,16 +312,16 @@
 
 			@keyframes slide {
 				  0% {
-					left: 50vw;
-					top: 0vh;
+					left: 50%;
+					top: 0;
 					z-index:1000;
 					position: absolute; 
 					transform: translate(-50%,0);
 				  }
 
 				  100% {
-					left: 50vw;
-					top: 0vh;
+					left: 50%;
+					top: 0;
 					z-index:1000;
 					position: absolute; 
 					transform: translate(-50%,0);

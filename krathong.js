@@ -6,7 +6,7 @@
       							<div class="item-relative">
 								<div class="items-slide item-base-slide ">
 									<div class="items-topdown">
-										<div class="items-swing  items-thumb">
+										<div class="items-swing item-0 items-thumb">
 										<img src="https://semicon.github.io/loykrathong/img/krathong.png" alt="กระทง0">
 										</div>
 									</div>

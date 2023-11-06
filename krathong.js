@@ -4,7 +4,7 @@
     
 						<div id="divProvince1" style="">
       							<div class="item-relative">
-								<div class="items-slide-45 item-base-slide ">
+								<div class="items-slide item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-4 items-thumb">
 										<img src="https://semicon.github.io/loykrathong/img/krathong.png" alt="กระทง0">

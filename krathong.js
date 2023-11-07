@@ -3,7 +3,7 @@
 				<div class="river">
      
 						<div id="divProvince1" style="">
-      							<div class="item-relative">
+      							<div class="item-relative" id="mainx">
 								<div class="items-slide item-base-slide ">
 									<div class="items-topdown">
 	 									

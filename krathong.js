@@ -6,8 +6,8 @@
       							<div class="item-relative">
 								<div class="items-slide item-base-slide ">
 									<div class="items-topdown">
+	 									<div id="boxPic" class="items-swing box-pic"></div>
 										<div id="boxPrayer" class="items-swing box-prayer"></div>
-	  									<div id="boxPic" class="items-swing box-pic"></div>
 										<div class="items-swing item-0 items-thumb">
 										<img id="krathongMain" src="https://semicon.github.io/loykrathong/img/krathong.png" alt="krathongMain" style="width:220px; height: auto;">
 										</div>

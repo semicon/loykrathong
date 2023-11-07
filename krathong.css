@@ -213,7 +213,7 @@
 
 			@media screen and (max-width: 1024px) {
 					.bg-main {
-						 min-height: 840px;
+						 min-height: 740px;
 					}
 					.bg-main .river {
 						height: 250px;

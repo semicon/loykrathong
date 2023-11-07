@@ -1,7 +1,7 @@
 
   let result = `<div class="bg-main bg-province1">
 				<div class="river">
-    
+     
 						<div id="divProvince1" style="">
       							<div class="item-relative">
 								<div class="items-slide item-base-slide ">

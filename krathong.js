@@ -6,12 +6,13 @@
       							<div class="item-relative" id="mainx">
 								<div class="items-slide item-base-slide ">
 									<div class="items-topdown">
-	 									
 										<div class="items-swing item-0 items-thumb">
 										<img id="krathongMain" src="https://semicon.github.io/loykrathong/img/krathong.png" alt="krathongMain" style="width:220px; height: auto;">
 										</div>
-	  									<div id="boxPic" class="items-swing box-pic"></div>
-										<div id="boxPrayer" class="items-swing box-prayer"></div>
+									</div>
+									<div class="items-topdown">
+									  	<div id="boxPic" class="items-swing item-0 box-pic"></div>
+										<div id="boxPrayer" class="items-swing item-0 box-prayer"></div>
 									</div>
 								</div>
 							</div>

@@ -11,8 +11,8 @@
 										</div>
 									</div>
 									<div class="items-topdown">
-									  	<div id="boxPic" class="items-swing item-0 box-pic"></div>
-										<div id="boxPrayer" class="items-swing item-0 box-prayer"></div>
+									  	<div id="boxPic" class="items-swing box-pic"></div>
+										<div id="boxPrayer" class="items-swing box-prayer"></div>
 									</div>
 								</div>
 							</div>

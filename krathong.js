@@ -11,9 +11,10 @@
 	  										<div class ="krathong-main">
 												<img id="krathongMain" src="https://semicon.github.io/loykrathong/img/krathong.png" alt="krathongMain" style="width:220px; height: auto;">
 	   										</div>
+	      										<div class="text-prayer">
 	      										<div id="boxPic" class="box-pic"></div>
 											<div id="boxPrayer" class="box-prayer"></div>
-	  										
+	   										</div>
 										</div>
 	  									
 									</div>

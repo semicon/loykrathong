@@ -213,15 +213,15 @@
 
 			@media screen and (max-width: 1024px) {
 					.bg-main {
-						 min-height: 740px;
+						 min-height: 720px;
 					}
 					.bg-main .river {
 						height: 250px;
 					}
 					.bg-province1 {
-								  background-size: cover;
-								  background-position: center;
-								}
+						background-size: cover;
+						background-position: top;
+					}
 				}
 
 			.bg-main .river .item-base-slide:hover .item-wish,

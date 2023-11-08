@@ -3,10 +3,10 @@
 				<div class="river">
      
 						<div id="divProvince1" style="">
-      							<div class="item-relative" id="mainx">
-								<div class="items-slide item-base-slide ">
+      							<div class="item-relative">
+								<div class="items-slide item-base-slide">
 									<div class="items-topdown">
-										<div class="items-swing item-0">
+										<div class="items-swing item-0  items-thumb">
 	  										<div id="boxPic" class="box-pic"></div>
 											<div id="boxPrayer" class="box-prayer"></div>
 	  										<div class ="krathong-main">
@@ -18,7 +18,7 @@
 								</div>
 							</div>
 							<div class="item-relative">
-								<div class="items-slide-46 item-base-slide ">
+								<div class="items-slide-46 item-base-slide">
 									<div class="items-topdown">
 										<div class="items-swing item-4 items-thumb">
 										<img src="https://semicon.github.io/loykrathong/img/krathong.png" alt="กระทง0">

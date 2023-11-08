@@ -7,11 +7,12 @@
 								<div class="items-slide item-base-slide ">
 									<div class="items-topdown">
 										<div class="items-swing item-0 items-thumb">
+	  										<div id="boxPic" class="box-pic"></div>
+											<div id="boxPrayer" class="box-prayer"></div>
 	  										<div class ="krathong-main">
 												<img id="krathongMain" src="https://semicon.github.io/loykrathong/img/krathong.png" alt="krathongMain" style="width:220px; height: auto;">
 	   										</div>
-	  										<div id="boxPic" class="items-swing box-pic"></div>
-											<div id="boxPrayer" class="items-swing box-prayer"></div>
+	  										
 										</div>
 									</div>
 								</div>

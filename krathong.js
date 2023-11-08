@@ -6,7 +6,7 @@
       							<div class="item-relative">
 								<div class="items-slide item-base-slide">
 									<div class="items-topdown">
-										<div class="items-swing item-0  items-thumb">
+										<div class="items-swing item-0">
 	  										<div id="boxPic" class="box-pic"></div>
 											<div id="boxPrayer" class="box-prayer"></div>
 	  										<div class ="krathong-main">

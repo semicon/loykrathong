@@ -84,7 +84,15 @@
 									</div>
 								</div>
 							</div>
-																				
+							<div class="item-relative">
+								<div class="items-slide-46 item-base-slide">
+									<div class="items-topdown">
+										<div class="items-swing item-4 items-thumb">
+										<img src="https://semicon.github.io/loykrathong/img/krathong.png" alt="กระทง0">
+										</div>
+									</div>
+								</div>
+							</div>													
 							<div class="item-relative">
 								<div class="items-slide-51 item-base-slide ">
 									<div class="items-topdown">
@@ -146,7 +154,15 @@
 									</div>
 								</div>
 							</div>
-							
+							<div class="item-relative">
+								<div class="items-slide-46 item-base-slide">
+									<div class="items-topdown">
+										<div class="items-swing item-4 items-thumb">
+										<img src="https://semicon.github.io/loykrathong/img/krathong.png" alt="กระทง0">
+										</div>
+									</div>
+								</div>
+							</div>
 							<div class="item-relative">
 								<div class="items-slide-58 item-base-slide ">
 									<div class="items-topdown">

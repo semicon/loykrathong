@@ -1,5 +1,4 @@
-
-  let result = `<div class="bg-main bg-province1">
+let result = `<div class="bg-main bg-province1">
 				<div class="river">
      
 						<div id="divProvince1" style="">
@@ -227,4 +226,3 @@
 						</div>
 				</div>
 		</div>`
-
